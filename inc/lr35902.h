@@ -19,7 +19,9 @@
 #ifndef LR35902_H
 #define LR35902_H
 
+#include <windows.h>
 #include <stdint.h>
+#include <stdbool.h>
 #include "common.h"
 
 #define ZERO_FLAG			BIT7_MASK		/* status register bit[7] zero flag */

@@ -42,4 +42,4 @@
 #define BIT14_MASK					(1 << 14)
 #define BIT15_MASK					(1 << 15)
 
-#endif COMMON_H
+#endif /* COMMON_H */
